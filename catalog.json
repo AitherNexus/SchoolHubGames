@@ -6,20 +6,34 @@
     "category": "Uploaded game",
     "entry": "drivemad.html",
     "githubRepoPath": "mvf9fee1-7ce8688f",
+    "gitlabRepoPath": "mvf9fee1-7ce8688f",
     "launchUrl": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/mvf9fee1-7ce8688f/drivemad.html",
+    "imageUrl": "",
+    "createdAt": "2026-10-19T12:58:15.259Z",
     "url": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/mvf9fee1-7ce8688f/drivemad.html",
     "source": "github-schoolhubgames"
   },
   {
-    "id": "mvf9fee1-7ce8688f",
-    "name": "drivemad",
-    "display_name": "drivemad",
+    "id": "github-schoolhubgames-mvf9os64-8234d23f",
+    "name": "mvf9os64 8234d23f",
+    "display_name": "mvf9os64 8234d23f",
+    "category": "Uploaded game",
+    "entry": "cookie-clicker.html",
+    "githubRepoPath": "mvf9os64-8234d23f",
+    "launchUrl": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/mvf9os64-8234d23f/cookie-clicker.html",
+    "url": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/mvf9os64-8234d23f/cookie-clicker.html",
+    "source": "github-schoolhubgames"
+  },
+  {
+    "id": "mvf9os64-8234d23f",
+    "name": "cookie-clicker",
+    "display_name": "cookie-clicker",
     "category": "",
-    "entry": "drivemad.html",
-    "githubRepoPath": "mvf9fee1-7ce8688f",
-    "gitlabRepoPath": "mvf9fee1-7ce8688f",
-    "launchUrl": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/mvf9fee1-7ce8688f/drivemad.html",
+    "entry": "cookie-clicker.html",
+    "githubRepoPath": "mvf9os64-8234d23f",
+    "gitlabRepoPath": "mvf9os64-8234d23f",
+    "launchUrl": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/mvf9os64-8234d23f/cookie-clicker.html",
     "imageUrl": "",
-    "createdAt": "2026-10-19T12:58:15.259Z"
+    "createdAt": "2026-10-19T13:05:55.301Z"
   }
 ]
