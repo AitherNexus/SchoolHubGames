@@ -1,1 +1,91 @@
-[]
+[
+  {
+    "id": "github-schoolhubgames-assignments-1791241392749-trees-hate-you",
+    "name": "1791241392749 trees hate you",
+    "display_name": "1791241392749 trees hate you",
+    "category": "assignments",
+    "entry": "cltreeshateyou.html",
+    "githubRepoPath": "assignments/1791241392749-trees-hate-you",
+    "launchUrl": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/assignments/1791241392749-trees-hate-you/cltreeshateyou.html",
+    "url": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/assignments/1791241392749-trees-hate-you/cltreeshateyou.html",
+    "source": "github-schoolhubgames"
+  },
+  {
+    "id": "github-schoolhubgames-assignments-1791243280362-innkeeper",
+    "name": "1791243280362 innkeeper",
+    "display_name": "1791243280362 innkeeper",
+    "category": "assignments",
+    "entry": "Innkeeper.html",
+    "githubRepoPath": "assignments/1791243280362-innkeeper",
+    "launchUrl": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/assignments/1791243280362-innkeeper/Innkeeper.html",
+    "url": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/assignments/1791243280362-innkeeper/Innkeeper.html",
+    "source": "github-schoolhubgames"
+  },
+  {
+    "id": "github-schoolhubgames-assignments-1791253161301-level-devil",
+    "name": "1791253161301 level devil",
+    "display_name": "1791253161301 level devil",
+    "category": "assignments",
+    "entry": "level-devil.html",
+    "githubRepoPath": "assignments/1791253161301-level-devil",
+    "launchUrl": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/assignments/1791253161301-level-devil/level-devil.html",
+    "url": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/assignments/1791253161301-level-devil/level-devil.html",
+    "source": "github-schoolhubgames"
+  },
+  {
+    "id": "github-schoolhubgames-assignments-1791253203702-penguin-diner-2",
+    "name": "1791253203702 penguin diner 2",
+    "display_name": "1791253203702 penguin diner 2",
+    "category": "assignments",
+    "entry": "penguin-diner-2-coolmathgames-master/index.html",
+    "githubRepoPath": "assignments/1791253203702-penguin diner 2",
+    "launchUrl": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/assignments/1791253203702-penguin%20diner%202/penguin-diner-2-coolmathgames-master/index.html",
+    "url": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/assignments/1791253203702-penguin%20diner%202/penguin-diner-2-coolmathgames-master/index.html",
+    "source": "github-schoolhubgames"
+  },
+  {
+    "id": "github-schoolhubgames-assignments-1791297564014-snow-rider-3d",
+    "name": "1791297564014 snow rider 3d",
+    "display_name": "1791297564014 snow rider 3d",
+    "category": "assignments",
+    "entry": "snow-rider.html",
+    "githubRepoPath": "assignments/1791297564014-snow-rider-3d",
+    "launchUrl": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/assignments/1791297564014-snow-rider-3d/snow-rider.html",
+    "url": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/assignments/1791297564014-snow-rider-3d/snow-rider.html",
+    "source": "github-schoolhubgames"
+  },
+  {
+    "id": "github-schoolhubgames-assignments-1791338651658-penguin-diner-2-working-",
+    "name": "1791338651658 penguin diner 2 working",
+    "display_name": "1791338651658 penguin diner 2 working",
+    "category": "assignments",
+    "entry": "penguin-diner-2-coolmathgames-master/index.html",
+    "githubRepoPath": "assignments/1791338651658-penguin-diner-2-_working_",
+    "launchUrl": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/assignments/1791338651658-penguin-diner-2-_working_/penguin-diner-2-coolmathgames-master/index.html",
+    "url": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/assignments/1791338651658-penguin-diner-2-_working_/penguin-diner-2-coolmathgames-master/index.html",
+    "source": "github-schoolhubgames"
+  },
+  {
+    "id": "github-schoolhubgames-mvelftpd-9cff3f27",
+    "name": "mvelftpd 9cff3f27",
+    "display_name": "mvelftpd 9cff3f27",
+    "category": "Uploaded game",
+    "entry": "clpacmana.html",
+    "githubRepoPath": "mvelftpd-9cff3f27",
+    "launchUrl": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/mvelftpd-9cff3f27/clpacmana.html",
+    "url": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/mvelftpd-9cff3f27/clpacmana.html",
+    "source": "github-schoolhubgames"
+  },
+  {
+    "id": "mvelftpd-9cff3f27",
+    "name": "PAC Man",
+    "display_name": "PAC Man",
+    "category": "",
+    "entry": "clpacmana.html",
+    "githubRepoPath": "mvelftpd-9cff3f27",
+    "gitlabRepoPath": "mvelftpd-9cff3f27",
+    "launchUrl": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/mvelftpd-9cff3f27/clpacmana.html",
+    "imageUrl": "",
+    "createdAt": "2026-10-19T01:46:41.417Z"
+  }
+]
