@@ -34,20 +34,34 @@
     "category": "Uploaded game",
     "entry": "cltreeshateyou.html",
     "githubRepoPath": "mvficqwo-76f3b3e0",
+    "gitlabRepoPath": "mvficqwo-76f3b3e0",
     "launchUrl": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/mvficqwo-76f3b3e0/cltreeshateyou.html",
+    "imageUrl": "",
+    "createdAt": "2026-10-19T17:08:05.072Z",
     "url": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/mvficqwo-76f3b3e0/cltreeshateyou.html",
     "source": "github-schoolhubgames"
   },
   {
-    "id": "mvficqwo-76f3b3e0",
-    "name": "Trees Hate You",
-    "display_name": "Trees Hate You",
+    "id": "github-schoolhubgames-mvfitu9f-c5de728d",
+    "name": "mvfitu9f c5de728d",
+    "display_name": "mvfitu9f c5de728d",
+    "category": "Uploaded game",
+    "entry": "snowrider3d-main/snowrider3d-main/index.html",
+    "githubRepoPath": "mvfitu9f-c5de728d",
+    "launchUrl": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/mvfitu9f-c5de728d/snowrider3d-main/snowrider3d-main/index.html",
+    "url": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/mvfitu9f-c5de728d/snowrider3d-main/snowrider3d-main/index.html",
+    "source": "github-schoolhubgames"
+  },
+  {
+    "id": "mvfitu9f-c5de728d",
+    "name": "Snow Rider 3D",
+    "display_name": "Snow Rider 3D",
     "category": "",
-    "entry": "cltreeshateyou.html",
-    "githubRepoPath": "mvficqwo-76f3b3e0",
-    "gitlabRepoPath": "mvficqwo-76f3b3e0",
-    "launchUrl": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/mvficqwo-76f3b3e0/cltreeshateyou.html",
+    "entry": "snowrider3d-main/snowrider3d-main/index.html",
+    "githubRepoPath": "mvfitu9f-c5de728d",
+    "gitlabRepoPath": "mvfitu9f-c5de728d",
+    "launchUrl": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/mvfitu9f-c5de728d/snowrider3d-main%2Fsnowrider3d-main%2Findex.html",
     "imageUrl": "",
-    "createdAt": "2026-10-19T17:08:05.072Z"
+    "createdAt": "2026-10-19T17:23:04.093Z"
   }
 ]
