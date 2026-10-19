@@ -20,20 +20,34 @@
     "category": "Uploaded game",
     "entry": "cookie-clicker.html",
     "githubRepoPath": "mvf9os64-8234d23f",
+    "gitlabRepoPath": "mvf9os64-8234d23f",
     "launchUrl": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/mvf9os64-8234d23f/cookie-clicker.html",
+    "imageUrl": "",
+    "createdAt": "2026-10-19T13:05:55.301Z",
     "url": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/mvf9os64-8234d23f/cookie-clicker.html",
     "source": "github-schoolhubgames"
   },
   {
-    "id": "mvf9os64-8234d23f",
-    "name": "cookie-clicker",
-    "display_name": "cookie-clicker",
+    "id": "github-schoolhubgames-mvficqwo-76f3b3e0",
+    "name": "mvficqwo 76f3b3e0",
+    "display_name": "mvficqwo 76f3b3e0",
+    "category": "Uploaded game",
+    "entry": "cltreeshateyou.html",
+    "githubRepoPath": "mvficqwo-76f3b3e0",
+    "launchUrl": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/mvficqwo-76f3b3e0/cltreeshateyou.html",
+    "url": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/mvficqwo-76f3b3e0/cltreeshateyou.html",
+    "source": "github-schoolhubgames"
+  },
+  {
+    "id": "mvficqwo-76f3b3e0",
+    "name": "Trees Hate You",
+    "display_name": "Trees Hate You",
     "category": "",
-    "entry": "cookie-clicker.html",
-    "githubRepoPath": "mvf9os64-8234d23f",
-    "gitlabRepoPath": "mvf9os64-8234d23f",
-    "launchUrl": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/mvf9os64-8234d23f/cookie-clicker.html",
+    "entry": "cltreeshateyou.html",
+    "githubRepoPath": "mvficqwo-76f3b3e0",
+    "gitlabRepoPath": "mvficqwo-76f3b3e0",
+    "launchUrl": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/mvficqwo-76f3b3e0/cltreeshateyou.html",
     "imageUrl": "",
-    "createdAt": "2026-10-19T13:05:55.301Z"
+    "createdAt": "2026-10-19T17:08:05.072Z"
   }
 ]
