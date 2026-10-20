@@ -33,6 +33,17 @@
     "source": "github-schoolhubgames"
   },
   {
+    "id": "github-schoolhubgames-2048-2caa8a7f",
+    "name": "2048",
+    "display_name": "2048",
+    "category": "Uploaded game",
+    "entry": "cl2048.html",
+    "githubRepoPath": "2048--2caa8a7f",
+    "launchUrl": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/2048--2caa8a7f/cl2048.html",
+    "url": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/2048--2caa8a7f/cl2048.html",
+    "source": "github-schoolhubgames"
+  },
+  {
     "id": "github-schoolhubgames-soundboard-a4a8ed27",
     "name": "soundboard",
     "display_name": "soundboard",
@@ -44,15 +55,15 @@
     "source": "github-schoolhubgames"
   },
   {
-    "id": "soundboard--a4a8ed27",
-    "name": "Soundboard",
-    "display_name": "Soundboard",
+    "id": "2048--2caa8a7f",
+    "name": "2048",
+    "display_name": "2048",
     "category": "",
-    "entry": "clsoundboard.html",
-    "githubRepoPath": "soundboard--a4a8ed27",
-    "gitlabRepoPath": "soundboard--a4a8ed27",
-    "launchUrl": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/soundboard--a4a8ed27/clsoundboard.html",
+    "entry": "cl2048.html",
+    "githubRepoPath": "2048--2caa8a7f",
+    "gitlabRepoPath": "2048--2caa8a7f",
+    "launchUrl": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/2048--2caa8a7f/cl2048.html",
     "imageUrl": "",
-    "createdAt": "2026-10-20T21:50:35.049Z"
+    "createdAt": "2026-10-20T21:52:21.499Z"
   }
 ]
