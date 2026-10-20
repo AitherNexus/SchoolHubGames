@@ -65,5 +65,28 @@
     "launchUrl": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/monkey-mart--201e5b6c/clmonkeymart.html",
     "imageUrl": "",
     "createdAt": "2026-10-20T21:54:54.211Z"
+  },
+  {
+    "id": "github-schoolhubgames-helo-neighbor-58d7fec9",
+    "name": "helo neighbor",
+    "display_name": "helo neighbor",
+    "category": "Uploaded game",
+    "entry": "TheRealMrFortniteX.github.io-master/index.html",
+    "githubRepoPath": "helo-neighbor--58d7fec9",
+    "launchUrl": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/helo-neighbor--58d7fec9/TheRealMrFortniteX.github.io-master/index.html",
+    "url": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/helo-neighbor--58d7fec9/TheRealMrFortniteX.github.io-master/index.html",
+    "source": "github-schoolhubgames"
+  },
+  {
+    "id": "helo-neighbor--58d7fec9",
+    "name": "Helo neighbor",
+    "display_name": "Helo neighbor",
+    "category": "",
+    "entry": "TheRealMrFortniteX.github.io-master/index.html",
+    "githubRepoPath": "helo-neighbor--58d7fec9",
+    "gitlabRepoPath": "helo-neighbor--58d7fec9",
+    "launchUrl": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/helo-neighbor--58d7fec9/TheRealMrFortniteX.github.io-master%2Findex.html",
+    "imageUrl": "",
+    "createdAt": "2026-10-20T22:15:35.984Z"
   }
 ]
