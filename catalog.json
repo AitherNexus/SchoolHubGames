@@ -1,1 +1,25 @@
-
+[
+  {
+    "id": "github-schoolhubgames-pac-man-6b144588",
+    "name": "pac man",
+    "display_name": "pac man",
+    "category": "Uploaded game",
+    "entry": "clpacmana.html",
+    "githubRepoPath": "pac-man--6b144588",
+    "launchUrl": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/pac-man--6b144588/clpacmana.html",
+    "url": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/pac-man--6b144588/clpacmana.html",
+    "source": "github-schoolhubgames"
+  },
+  {
+    "id": "pac-man--6b144588",
+    "name": "PAC Man",
+    "display_name": "PAC Man",
+    "category": "",
+    "entry": "clpacmana.html",
+    "githubRepoPath": "pac-man--6b144588",
+    "gitlabRepoPath": "pac-man--6b144588",
+    "launchUrl": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/pac-man--6b144588/clpacmana.html",
+    "imageUrl": "",
+    "createdAt": "2026-10-20T12:20:33.429Z"
+  }
+]
