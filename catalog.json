@@ -8,8 +8,7 @@
     "githubRepoPath": "100-html-games--0e6b55eb",
     "launchUrl": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/100-html-games--0e6b55eb/100htmlgameshub-main/games/07-frogger/index.html",
     "url": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/100-html-games--0e6b55eb/100htmlgameshub-main/games/07-frogger/index.html",
-    "source": "github-schoolhubgames",
-    "deleted": true
+    "source": "github-schoolhubgames"
   },
   {
     "id": "github-schoolhubgames-drift-boss-c12d4555",
@@ -55,5 +54,17 @@
     "launchUrl": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/cookie-clicker--d0f9cd64/clcookieclicker.html",
     "imageUrl": "",
     "createdAt": "2026-10-20T12:41:37.799Z"
+  },
+  {
+    "id": "github-schoolhubgames-game-box-main-8c685db8",
+    "name": "game box main",
+    "display_name": "game box main",
+    "category": "Uploaded game",
+    "entry": "2048/index.html",
+    "githubRepoPath": "game-box-main--8c685db8",
+    "launchUrl": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/game-box-main--8c685db8/2048/index.html",
+    "url": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/game-box-main--8c685db8/2048/index.html",
+    "source": "github-schoolhubgames",
+    "deleted": true
   }
 ]
