@@ -55,15 +55,15 @@
     "source": "github-schoolhubgames"
   },
   {
-    "id": "2048--2caa8a7f",
-    "name": "2048",
-    "display_name": "2048",
+    "id": "monkey-mart--201e5b6c",
+    "name": "Monkey Mart",
+    "display_name": "Monkey Mart",
     "category": "",
-    "entry": "cl2048.html",
-    "githubRepoPath": "2048--2caa8a7f",
-    "gitlabRepoPath": "2048--2caa8a7f",
-    "launchUrl": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/2048--2caa8a7f/cl2048.html",
+    "entry": "clmonkeymart.html",
+    "githubRepoPath": "monkey-mart--201e5b6c",
+    "gitlabRepoPath": "monkey-mart--201e5b6c",
+    "launchUrl": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/monkey-mart--201e5b6c/clmonkeymart.html",
     "imageUrl": "",
-    "createdAt": "2026-10-20T21:52:21.499Z"
+    "createdAt": "2026-10-20T21:54:54.211Z"
   }
 ]
