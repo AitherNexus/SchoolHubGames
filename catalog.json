@@ -33,15 +33,26 @@
     "source": "github-schoolhubgames"
   },
   {
-    "id": "drift-boss--c12d4555",
-    "name": "Drift Boss",
-    "display_name": "Drift Boss",
+    "id": "github-schoolhubgames-cookie-clicker-d0f9cd64",
+    "name": "cookie clicker",
+    "display_name": "cookie clicker",
+    "category": "Uploaded game",
+    "entry": "clcookieclicker.html",
+    "githubRepoPath": "cookie-clicker--d0f9cd64",
+    "launchUrl": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/cookie-clicker--d0f9cd64/clcookieclicker.html",
+    "url": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/cookie-clicker--d0f9cd64/clcookieclicker.html",
+    "source": "github-schoolhubgames"
+  },
+  {
+    "id": "cookie-clicker--d0f9cd64",
+    "name": "Cookie Clicker",
+    "display_name": "Cookie Clicker",
     "category": "",
-    "entry": "cldriftboss.html",
-    "githubRepoPath": "drift-boss--c12d4555",
-    "gitlabRepoPath": "drift-boss--c12d4555",
-    "launchUrl": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/drift-boss--c12d4555/cldriftboss.html",
+    "entry": "clcookieclicker.html",
+    "githubRepoPath": "cookie-clicker--d0f9cd64",
+    "gitlabRepoPath": "cookie-clicker--d0f9cd64",
+    "launchUrl": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/cookie-clicker--d0f9cd64/clcookieclicker.html",
     "imageUrl": "",
-    "createdAt": "2026-10-20T12:23:42.840Z"
+    "createdAt": "2026-10-20T12:41:37.799Z"
   }
 ]
