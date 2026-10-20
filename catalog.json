@@ -1,17 +1,5 @@
 [
   {
-    "id": "github-schoolhubgames-100-html-games-0e6b55eb",
-    "name": "100 html games",
-    "display_name": "100 html games",
-    "category": "Uploaded game",
-    "entry": "100htmlgameshub-main/games/07-frogger/index.html",
-    "githubRepoPath": "100-html-games--0e6b55eb",
-    "launchUrl": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/100-html-games--0e6b55eb/100htmlgameshub-main/games/07-frogger/index.html",
-    "url": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/100-html-games--0e6b55eb/100htmlgameshub-main/games/07-frogger/index.html",
-    "source": "github-schoolhubgames",
-    "deleted": true
-  },
-  {
     "id": "github-schoolhubgames-drift-boss-c12d4555",
     "name": "drift boss",
     "display_name": "drift boss",
@@ -45,27 +33,26 @@
     "source": "github-schoolhubgames"
   },
   {
-    "id": "cookie-clicker--d0f9cd64",
-    "name": "Cookie Clicker",
-    "display_name": "Cookie Clicker",
-    "category": "",
-    "entry": "clcookieclicker.html",
-    "githubRepoPath": "cookie-clicker--d0f9cd64",
-    "gitlabRepoPath": "cookie-clicker--d0f9cd64",
-    "launchUrl": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/cookie-clicker--d0f9cd64/clcookieclicker.html",
-    "imageUrl": "",
-    "createdAt": "2026-10-20T12:41:37.799Z"
+    "id": "github-schoolhubgames-soundboard-a4a8ed27",
+    "name": "soundboard",
+    "display_name": "soundboard",
+    "category": "Uploaded game",
+    "entry": "clsoundboard.html",
+    "githubRepoPath": "soundboard--a4a8ed27",
+    "launchUrl": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/soundboard--a4a8ed27/clsoundboard.html",
+    "url": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/soundboard--a4a8ed27/clsoundboard.html",
+    "source": "github-schoolhubgames"
   },
   {
-    "id": "github-schoolhubgames-game-box-main-8c685db8",
-    "name": "game box main",
-    "display_name": "game box main",
-    "category": "Uploaded game",
-    "entry": "2048/index.html",
-    "githubRepoPath": "game-box-main--8c685db8",
-    "launchUrl": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/game-box-main--8c685db8/2048/index.html",
-    "url": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/game-box-main--8c685db8/2048/index.html",
-    "source": "github-schoolhubgames",
-    "deleted": true
+    "id": "soundboard--a4a8ed27",
+    "name": "Soundboard",
+    "display_name": "Soundboard",
+    "category": "",
+    "entry": "clsoundboard.html",
+    "githubRepoPath": "soundboard--a4a8ed27",
+    "gitlabRepoPath": "soundboard--a4a8ed27",
+    "launchUrl": "https://raw.githubusercontent.com/AitherNexus/SchoolHubGames/main/soundboard--a4a8ed27/clsoundboard.html",
+    "imageUrl": "",
+    "createdAt": "2026-10-20T21:50:35.049Z"
   }
 ]
